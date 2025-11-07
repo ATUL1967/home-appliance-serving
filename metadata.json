@@ -1,0 +1,7 @@
+{
+  "name": "Home Appliance Service",
+  "description": "A mobile-first web app for diagnosing home appliance issues using AI. Users can describe the problem, upload a photo, and get instant troubleshooting advice and find local technicians.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
